@@ -72,14 +72,16 @@ The system ensures **efficiency**, **transparency**, and **seamless communicatio
 cd listagram_BackEnd
 npm install
 npm run dev
+```
 
 > Server runs on the port defined in .env
 
 ### ✅ Frontend Setup
-bash
+```bash
 cd listagram_FrontEnd
 npm install
 npm run dev
+```
 
 > Runs on http://localhost:5173 by default
 
