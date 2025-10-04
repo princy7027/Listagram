@@ -4,7 +4,7 @@
 ![Framework](https://img.shields.io/badge/Framework-Express-000000?style=flat)
 ![Database](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat)
 ![Auth](https://img.shields.io/badge/Auth-JWT-orange?style=flat)
-![Frontend](https://img.shields.io/badge/Frontend-React%20(TypeScript)-61DAFB?style=flat)
+![Frontend](https://img.shields.io/badge/Frontend-React%20-61DAFB?style=flat)
 
 A full-stack web platform that simplifies searching, booking, and managing accommodations near campuses.  
 Users can browse listings, reserve properties, and communicate with owners, while listers can easily add and manage their listings.  
