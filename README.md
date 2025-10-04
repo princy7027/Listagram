@@ -68,7 +68,7 @@ The system ensures **efficiency**, **transparency**, and **seamless communicatio
  ## 🛠 Getting Started
 
 ### ✅ Backend Setup
-bash
+```bash
 cd listagram_BackEnd
 npm install
 npm run dev
